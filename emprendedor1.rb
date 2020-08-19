@@ -10,3 +10,6 @@ profit = price * users - costs
 if profit > 0
     profit -= profit*0.35
 end
+
+puts "Your overall profit is: #{profit} dollars"
+
