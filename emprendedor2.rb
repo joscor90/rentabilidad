@@ -13,3 +13,5 @@ profit = (price*users)+(price*2*premium_users)-costs #Here i didn't cinclude fre
 if profit > 0
     profit -= profit*0.35
 end
+
+puts "Your net profit is: #{profit} dollars"

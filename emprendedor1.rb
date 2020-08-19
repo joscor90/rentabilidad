@@ -11,7 +11,7 @@ if profit > 0
     profit -= profit*0.35
 end
 
-puts "You profit is: #{profit} dollars"
+puts "Your net profit is: #{profit} dollars"
 
 
 
